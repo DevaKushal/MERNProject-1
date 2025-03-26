@@ -1,0 +1,19 @@
+.nav-container {
+    width: 100vw;
+}
+
+.nav-container .nav-list {
+    width: 60%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-container .nav-list .nav-item a {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.nav-container .nav-list .nav-item a:hover {
+    color: lightseagreen;
+}
